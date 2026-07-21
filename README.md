@@ -49,7 +49,7 @@ record level.
 | Composite Privacy Risk Score (PRS) | ~0.889 | ~0.291 |
 
 Real smart meter data carries substantially higher re-identification risk than the
-synthetic data evaluated here. Full methodology, figures, and discussion are in Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf
+synthetic data evaluated here. Full methodology, figures, and discussion are in [Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf](https://github.com/smartgrids-aau/Ethical-Aspects-of-Synthetic-Data/blob/763a20c25b1d60fd1050389922a9446c66b5ba1f/Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf)
 [Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf](./report/).
 
 ## Repository Structure
