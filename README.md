@@ -50,12 +50,12 @@ record level.
 
 Real smart meter data carries substantially higher re-identification risk than the
 synthetic data evaluated here. Full methodology, figures, and discussion are in
-[`report/Final_Report_Ucho_Ikechukwu_Igwe_12349300.docx`](./report/).
+[`report/Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf`](./report/).
 
 ## Repository Structure
 
 ```
-├── report/           Final report (.docx)
+├── report/           Final report (.pdf)
 ├── code/             Analysis scripts (7 stages: load → preprocess → feature
 │                     extraction → re-identification → PRS → bias review → figures)
 ├── docs/             Supporting/additional documents
