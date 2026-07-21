@@ -2,7 +2,7 @@
 
 Smart Grid Research Project (700.288), University of Klagenfurt
 Supervisor: Prof. Wilfried Elmenreich · Co-supervisor: Fabian Schober
-Author: Ikechukwu (igwe) Ucho
+Author: Ikechukwu (Igwe) Ucho
 
 ## Research Question
 
@@ -49,7 +49,7 @@ record level.
 | Composite Privacy Risk Score (PRS) | ~0.889 | ~0.291 |
 
 Real smart meter data carries substantially higher re-identification risk than the
-synthetic data evaluated here. Full methodology, figures, and discussion are in
+synthetic data evaluated here. Full methodology, figures, and discussion are in 
 [Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf](./report/).
 
 ## Repository Structure
