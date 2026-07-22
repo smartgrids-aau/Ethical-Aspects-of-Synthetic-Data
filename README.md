@@ -54,7 +54,7 @@ NNDR), since SynD and SNM are not structurally comparable at the record level.
 
 Real smart meter data carries substantially higher re-identification risk than the
 synthetic data evaluated here. Full methodology, figures, and discussion are in
-[/Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf](./report/).
+[/Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf](./report.pdf/).
 
 ## Repository Structure
 
