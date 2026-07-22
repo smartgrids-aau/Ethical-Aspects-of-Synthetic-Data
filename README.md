@@ -2,7 +2,7 @@
 
 Smart Grid Research Project (700.288), University of Klagenfurt
 Supervisor: Prof. Wilfried Elmenreich · Co-supervisor: Fabian Schober
-Author: Ikechukwu (Ucho) Igwe
+Author: Ikechukwu (Igwe) Ucho
 
 ## Research Question
 
@@ -60,7 +60,7 @@ synthetic data evaluated here. Full methodology, figures, and discussion are in
 
 ```
 ├── report/
-│   └── Final_Report_IkechukwuUcho_700288.docx   Final report
+│   └── Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf   Final report
 ├── code/
 │   ├── 01_extract_snm_archive.bat    7-Zip commands: selective extraction of SNM mains files
 │   ├── 02_downsample_synd.py         Chunked downsampling of SynD mains to 1-min resolution
@@ -92,7 +92,7 @@ CSVs, load the feature tables already provided in `data_sample/` directly (they 
 the same column layout the pipeline produces). This lets you check the privacy metrics
 and PRS computation immediately, without downloading the raw datasets.
 
-### Option B — full reproduction from raw data
+### Option B — full reproduction from raw data if you have good memory storage.
 
 **1. Download the datasets**
 
