@@ -54,7 +54,7 @@ NNDR), since SynD and SNM are not structurally comparable at the record level.
 
 Real smart meter data carries substantially higher re-identification risk than the
 synthetic data evaluated here. Full methodology, figures, and discussion are in
-[`Final_Report_IkechukwuUcho_700288.pdf`](./Final_Report_IkechukwuUcho_700288.pdf).
+[`Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf`](./Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf).
 
 ## Repository Structure
 
@@ -63,7 +63,7 @@ the current working directory, so keeping everything together is required for th
 code to run as-is):
 
 ```
-├── Final_Report_IkechukwuUcho_700288.pdf   Final report
+├── Final_Report_Ucho_Ikechukwu_Igwe_12349300.pdf   Final report
 ├── 01_extract_snm_archive.bat              7-Zip commands: selective extraction of SNM mains files
 ├── 02_downsample_synd.py                   Chunked downsampling of SynD mains to 1-min resolution
 ├── 03_compute_snm_power.py                 Whole-home power from per-phase V/I/PF (per SNM building)
